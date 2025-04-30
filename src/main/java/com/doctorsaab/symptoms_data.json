@@ -1,0 +1,89 @@
+{
+  "symptomConditions": {
+    "fever": ["Common Cold", "Flu", "COVID-19", "Infection"],
+    "headache": ["Tension Headache", "Migraine", "Dehydration", "Stress"],
+    "cough": ["Common Cold", "Flu", "Bronchitis", "Allergies", "COVID-19"],
+    "fatigue": ["Flu", "Depression", "Anemia", "Sleep Disorder", "Dehydration"],
+    "sore throat": ["Common Cold", "Strep Throat", "Allergies", "Tonsillitis"],
+    "nausea": ["Food Poisoning", "Stomach Flu", "Migraine", "Motion Sickness"],
+    "dizziness": ["Low Blood Pressure", "Dehydration", "Inner Ear Issues", "Anemia"],
+    "chest pain": ["Angina", "Heart Attack", "Anxiety", "Muscle Strain", "GERD"],
+    "shortness of breath": ["Asthma", "Anxiety", "COVID-19", "Heart Failure", "Pneumonia"],
+    "rash": ["Allergic Reaction", "Eczema", "Psoriasis", "Hives", "Chickenpox"],
+    "abdominal pain": ["Appendicitis", "Gastritis", "IBS", "Food Poisoning", "Kidney Stones"],
+    "vomiting": ["Food Poisoning", "Stomach Flu", "Migraine", "Appendicitis"],
+    "diarrhea": ["Food Poisoning", "IBS", "Stomach Flu", "Food Intolerance"],
+    "joint pain": ["Arthritis", "Injury", "Fibromyalgia", "Lupus", "Gout"],
+    "back pain": ["Muscle Strain", "Herniated Disc", "Kidney Infection", "Sciatica"]
+  },
+  "emergencySymptoms": [
+    "severe chest pain",
+    "difficulty breathing",
+    "stroke",
+    "unconscious",
+    "seizure"
+  ],
+  "adviceMap": {
+    "fever": [
+      "Stay hydrated and rest.",
+      "Take over-the-counter fever reducers as directed."
+    ],
+    "headache": [
+      "Rest in a quiet, dark room.",
+      "Apply a cool compress to your forehead."
+    ],
+    "cough": [
+      "Stay hydrated and rest your voice.",
+      "Try warm liquids like tea with honey."
+    ],
+    "sore throat": [
+      "Stay hydrated and rest your voice.",
+      "Try warm liquids like tea with honey."
+    ],
+    "fatigue": [
+      "Get adequate rest.",
+      "Stay hydrated and maintain a balanced diet."
+    ],
+    "nausea": [
+      "Eat small, bland meals.",
+      "Stay hydrated with clear fluids."
+    ],
+    "dizziness": [
+      "Sit or lie down immediately.",
+      "Stay hydrated and avoid sudden movements."
+    ],
+    "chest pain": [
+      "Seek immediate medical attention if severe.",
+      "Rest and avoid strenuous activity."
+    ],
+    "shortness of breath": [
+      "Stop any activity and rest in a comfortable position.",
+      "Seek medical attention if persistent."
+    ],
+    "rash": [
+      "Avoid scratching the affected area.",
+      "Apply a cool compress to reduce itching."
+    ],
+    "abdominal pain": [
+      "Rest and avoid solid foods if nauseous.",
+      "Apply a heating pad for comfort."
+    ],
+    "vomiting": [
+      "Sip clear fluids slowly.",
+      "Avoid solid food until vomiting subsides."
+    ],
+    "diarrhea": [
+      "Stay hydrated with water and electrolyte solutions.",
+      "Eat bland, easy-to-digest foods."
+    ],
+    "joint pain": [
+      "Rest the affected joint.",
+      "Apply ice to reduce swelling."
+    ],
+    "back pain": [
+      "Apply ice for the first 48 hours, then heat.",
+      "Maintain good posture and avoid heavy lifting."
+    ]
+  },
+  "generalAdvice": "Seek medical attention if symptoms worsen or persist."
+}
